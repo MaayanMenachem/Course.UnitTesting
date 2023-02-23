@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rls0X22i6CTw7OjHs0a7qQvFtzKmgl5qhWBUyCJET3zx1fNE3W/8VH9DIRPEYfuHuO3IwMOJBQblaoj03zk42Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Downloads\\Unit testing course code\\Unit testing course code\\5.AdvancedTechniques\\src\\AdvancedTechniques\\AdvancedTechniques.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

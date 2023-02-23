@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=33087541_002D2d93_002D4862_002D9898_002D14bd961ca0ea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Divide_ShouldDivideTwoNumbers_WhenTwoNumbersAreIntegers" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::99D0DDC5-1C15-4B86-B5A7-097DD57E6195::net6.0::CalculatorLibrary.Tests.Unit.CalculatorTests.Divide_ShouldDivideTwoNumbers_WhenTwoNumbersAreIntegers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::99D0DDC5-1C15-4B86-B5A7-097DD57E6195::net6.0::CalculatorLibrary.Tests.Unit.CalculatorTests.Multiply_ShouldMultiplyTwoNumbers_WhenTwoNumbersAreIntegers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::99D0DDC5-1C15-4B86-B5A7-097DD57E6195::net6.0::CalculatorLibrary.Tests.Unit.CalculatorTests.Subtract_ShouldSubtractTwoNumbers_WhenTwoNumbersAreIntegers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::99D0DDC5-1C15-4B86-B5A7-097DD57E6195::net6.0::CalculatorLibrary.Tests.Unit.CalculatorTests.Add_ShouldAddTwoNumbers_WhenTwoNumbersAreIntegers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4D427B67-828B-411C-BDAE-8617CA886EF1::net6.0::UnderstandingDependencies.Api.Tests.Unit.UserServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
